@@ -20,7 +20,7 @@ body {
 <div>
   <img src="../images/logo_info.png"  alt="" width="200px" align="right"/>
 </div>
-<div class="box"> <b>INF236-Análisis y Diseño de Software</b> </div>
+<div class="box"> <b>INF236</b> </div>
 <br/>
 <br/>
 <br/>

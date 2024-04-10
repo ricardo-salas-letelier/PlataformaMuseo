@@ -1,30 +1,3 @@
-<style>
-
-body {
-  width: 90%;
-  max-width: 900px;
-  margin: 0 auto;
-  font:
-    0.9em/1.2 Arial,
-    Helvetica,
-    sans-serif;
-}
- .box {
-    float: left;
-    margin-right: 15px;
-    width: 150px;
-    height: 40px;
-    //padding: 1em;
-  }
-</style>
-<div>
-  <img src="../images/logo_info.png"  alt="" width="200px" align="right"/>
-</div>
-<div class="box"> <b>INF236</b> </div>
-<br/>
-<br/>
-<br/>
-
 # Hito 2 
 
 ## Consideraciones
